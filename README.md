@@ -4,8 +4,8 @@ DRNv2 Predicting Defocus Distance of FPM Low-Resolution Images via Deep Learning
 The code for DRN/DRNv2 has been released.
 
 Paper link: 
-DRN: https://doi.org/10.1364/OE.512330
-DRNv2:Not available
+DRN:  https://doi.org/10.1364/OE.512330
+DRNv2:https://doi.org/10.1016/j.optlastec.2025.112554
 
 Data: https://doi.org/10.5281/zenodo.13845883
 
